@@ -1,4 +1,4 @@
-# qa_guru_v1
+# qa_guru_hw1
 Python autotesting advanced
 
 ### Объяснение структуры `README.md`
